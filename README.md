@@ -16,6 +16,7 @@ Multiple models were compared, and **Gradient Boosting** was chosen as the best-
 - **Total Samples**: 264  
 - **Features**: 11 (including clinical and demographic information)  
 - **Target**: Diabetes status (0, 1, 2)
+  
 📂 Dataset: The dataset used in this project can be downloaded from Kaggle: [Multiclass Daibetes Dataset](https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset/data)
 
 ### Key Features
